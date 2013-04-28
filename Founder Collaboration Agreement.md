@@ -1,9 +1,6 @@
 #Founder Collaboration Agreement
 
-**Contributors:**
-
-* Inder Comar, http://www.comarlaw.com/
-* @digitallawyer
+Authored by Inder Comar, http://www.comarlaw.com/
 
 ##Comments and attributions
 
@@ -27,9 +24,7 @@ This sample agreement is for informational purposes only and does not constitute
 
 ##Founder Collaboration Agreement
 
-The undersigned (each a “Founder” and together the “Founders”) are collaborating with the purpose of developing together a business concept related to 
-
-**[DESCRIBE BUSINESS CONCEPT HERE]** and related technology (the “Business Concept and Technology”) which, if developed, will be transferred to and launched by a company to be formed by the Founders (the “Company”). 
+The undersigned (each a “Founder” and together the “Founders”) are collaborating with the purpose of developing together a business concept related to **[DESCRIBE BUSINESS CONCEPT HERE]** and related technology (the “Business Concept and Technology”) which, if developed, will be transferred to and launched by a company to be formed by the Founders (the “Company”). 
 
 In connection with such collaboration, and in consideration for a mutually agreeable framework which shall serve as the foundation for the Founders to successfully develop the Business Concept and Technology, the undersigned hereby agree as follows:
 
